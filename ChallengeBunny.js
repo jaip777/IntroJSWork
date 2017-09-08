@@ -1,5 +1,5 @@
-var eyes = 30;
-var teeth = 20;
+var eyes = 30;//Variable for eye size
+var teeth = 20;// Variable for teeth length
 
 ellipse(150, 70, 60, 120);  // left ear
 ellipse(240, 70, 60, 120);  // right ear
